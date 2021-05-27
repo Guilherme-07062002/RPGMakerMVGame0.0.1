@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Uma máscara de tecido feita com muito amor pela sua mãe","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Máscara de Tecido","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"Uma mascara de maior qualidade que pode ser comprada\nem farmacias, mas que deve ser descartada depois de algum tempo","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":130,"name":"Mascara Cirurgica","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"A mascara considerada mais recomendada e eficiente\npor conter varias camadas","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Mascara N95","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":4,"atypeId":1,"description":"Se isso não te proteger de ficar doente, sinceramente\neu não sei o que te protegeria.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Mascara de gás","note":"","params":[0,0,0,0,10,0,0,0],"price":0}
+]
